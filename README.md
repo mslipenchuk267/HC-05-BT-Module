@@ -1,2 +1,2 @@
 # hc_05-BT-Module
-# .ino for sending AT commands
+# AT Commands. Used to change baud_rate, device name, etc... 
